@@ -44,5 +44,4 @@ public class Funcionario {
 	public double aumentaSalario(double percent) {
 		return this.salario = this.salario + (this.salario * percent / 100);
 	}
-
 }
