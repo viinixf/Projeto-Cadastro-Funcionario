@@ -1,2 +1,7 @@
-# Auto detect text files and perform LF normalization
-* text=auto
+O que foi utilizado:
+Entidade Funcionário com os atributos id, nome e salário. Construtor com os mesmo parâmetros citados. Getters e Setters.
+Uma lista do tipo Integer para armanezar os ID's;
+Um vetor que armazena um novo funcionário e é instanciado recebendo os parâmetros do usuário pelo construtor;
+Expressão Lambda que retorna verdadeiro ou false. A expressão é utilizada para verificar se o ID que irá receber aumento contém na lista de Id.
+Instruções de repetições determinadas e indeterminadas;
+Condicionais e sequenciais.
